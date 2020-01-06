@@ -1,9 +1,9 @@
 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨<br>
-## 📢 `nocjs` is now `p5-mimicry`! 
+## 📢 `nocjs` is now `p5mimicry`! 
 
 Please see: 
-* https://joeyklee.github.io/p5-mimicry or 
-* https://github.com/joeyklee/p5-mimicry
+* https://joeyklee.github.io/p5mimicry or 
+* https://github.com/joeyklee/p5mimicry
 
 <br>
 🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨🚨
